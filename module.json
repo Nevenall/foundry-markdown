@@ -1,0 +1,15 @@
+{
+    "name": "markdown",
+    "title": "Markdown Text Editor",
+    "description": "Replace the HTML text editor with a markdown based one",
+    "version": "0.0.1",
+    "author": "nevenall",
+    "scripts": ["./index.js"],
+    "styles": [],
+    "packs": [],
+    "url": "https://github.com/Nevenall/FoundryVTT-Markdown",
+    "manifest": "https://raw.githubusercontent.com/Nevenall/FoundryVTT-Markdown/master/module.json",
+    "download": "https://github.com/Nevenall/FoundryVTT-Markdown/archive/master.zip",
+    "minimumCoreVersion": "0.5.5",
+    "compatibleCoreVersion": "0.6.1"
+}
